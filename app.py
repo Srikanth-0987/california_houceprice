@@ -31,8 +31,9 @@ def predict():
     return render_template("home.html",prediction_text="the houce price prediction is {}".format(output))
 
 
- 
 
 if __name__=="__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=7860)
 
+
+## to deploy project in heroku plotform first of all we need to create a procfile
