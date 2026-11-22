@@ -5,5 +5,10 @@
 1. [ Github Account](https://github.com)
 2. [Heroku Account](https://heroku.com)
 3. [VS code IDE](https://code.visualstudio.com/)
-4. [GitCLI](https://git-scm.com/book/en/v2/
-Getting-started-the-command-ine)
+4. [GitCLI] (https://git-scm.com/book/en/v2/ Getting-started-the-command-ine)
+
+## create a new environment
+
+---
+conda create -p venv python==3.7 -y
+---
