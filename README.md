@@ -1,3 +1,13 @@
+---
+title: California Houcepricing
+emoji: 🏠
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 6.32.0
+app_file: app.py
+pinned: false
+---
 ### california_houceprice
 
 ### software and tools requirements
@@ -11,17 +21,6 @@
 
 ---
 conda create -p venv python==3.7 -y
----
-
----
-title: California Houcepricing
-emoji: 🏠
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 6.32.0
-app_file: app.py
-pinned: false
 ---
 
 # California House Price Prediction
